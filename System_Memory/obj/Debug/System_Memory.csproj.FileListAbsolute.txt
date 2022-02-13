@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\System_Memory\System_Memory\bin\Debug\System_Memory.exe.config
+C:\Users\mehme\source\repos\System_Memory\System_Memory\bin\Debug\System_Memory.exe
+C:\Users\mehme\source\repos\System_Memory\System_Memory\bin\Debug\System_Memory.pdb
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.Form1.resources
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.Properties.Resources.resources
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.exe
+C:\Users\mehme\source\repos\System_Memory\System_Memory\obj\Debug\System_Memory.pdb
